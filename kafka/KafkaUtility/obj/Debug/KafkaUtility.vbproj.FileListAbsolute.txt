@@ -1,0 +1,16 @@
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\bin\Debug\KafkaUtility.exe.config
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\bin\Debug\KafkaUtility.exe
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\bin\Debug\KafkaUtility.pdb
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\bin\Debug\KafkaUtility.xml
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\bin\Debug\kafka-net.dll
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\bin\Debug\RdKafka.dll
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.frmPublisher.resources
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.frmSubscriber.resources
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.frmMDI.resources
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.Resources.resources
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.vbproj.GenerateResource.cache
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.vbproj.CoreCompileInputs.cache
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.vbproj.CopyComplete
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.exe
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.xml
+D:\Utility\Kafka POC\Kafka Utility\KafkaUtility\obj\Debug\KafkaUtility.pdb

@@ -1,0 +1,18 @@
+10/18/2022 06:23:43.740 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv4#127.0.0.1:9092 failed: Unknown error
+10/18/2022 06:23:46.151 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:23:47.329 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv6#[::1]:9092 failed: Unknown error
+10/18/2022 06:23:50.035 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:23:50.352 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv4#127.0.0.1:9092 failed: Unknown error
+10/18/2022 06:23:50.357 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:23:53.384 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv6#[::1]:9092 failed: Unknown error
+10/18/2022 06:23:53.389 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:23:56.423 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv6#[::1]:9092 failed: Unknown error
+10/18/2022 06:23:56.428 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:23:59.479 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv4#127.0.0.1:9092 failed: Unknown error
+10/18/2022 06:23:59.485 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:24:02.516 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv4#127.0.0.1:9092 failed: Unknown error
+10/18/2022 06:24:02.521 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:24:05.565 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv4#127.0.0.1:9092 failed: Unknown error
+10/18/2022 06:24:05.571 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
+10/18/2022 06:24:08.617 PM, 	KafkaError Found. ErrorCode:-195; Reason:localhost:9092/bootstrap: Connect to ipv4#127.0.0.1:9092 failed: Unknown error
+10/18/2022 06:24:08.621 PM, 	KafkaError Found. ErrorCode:-187; Reason:1/1 brokers are down
