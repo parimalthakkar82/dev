@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# insert to check git
 # Function to install a package if it's not already installed
 install_package() {
     PACKAGE_NAME=$1
