@@ -1,5 +1,5 @@
 #!/bin/bash
-###### New check in
+###### New check in newbranch1
 # Function to install a package if it's not already installed
 install_package() {
     PACKAGE_NAME=$1
